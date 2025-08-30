@@ -1,0 +1,49 @@
+👩‍💼 HR Analytics Dashboard
+
+📌 Project Overview
+
+The HR Analytics Dashboard was designed to analyze employee data and provide actionable insights into workforce trends. It helps HR professionals and business leaders understand employee satisfaction, attrition, and engagement while identifying areas that require strategic improvements.
+
+🎯 Objectives
+
+Track employee satisfaction levels and highlight factors influencing turnover.
+
+Identify at-risk employees who are more likely to leave the organization.
+
+Compare satisfied vs. unsatisfied employees across departments and job roles.
+
+Provide an interactive dashboard for HR teams to make data-driven decisions.
+
+🛠 Tools & Technologies
+
+Excel → for data cleaning and preprocessing.
+
+Tableau → for building interactive dashboards and visualizations.
+
+📊 Key Insights from the Dashboard
+
+Departments with higher workloads showed a higher attrition rate.
+
+Employees with lower satisfaction scores were more likely to leave within a year.
+
+Clear patterns between employee tenure and retention were identified.
+
+The dashboard allows filtering by department, job role, and satisfaction level for deep analysis.
+
+📷 Dashboard Preview
+
+(Insert a screenshot of your Tableau HR dashboard here)
+
+🚀 How to Use
+
+Clone this repository.
+
+Review the data preprocessing steps (Excel/SQL).
+
+Open the Tableau workbook to interact with the dashboard.
+
+Use filters to explore insights by department, job role, or satisfaction level.
+
+📌 Conclusion
+
+The HR Analytics Dashboard empowers HR teams to improve retention strategies, enhance employee satisfaction, and make data-driven workforce decisions.
